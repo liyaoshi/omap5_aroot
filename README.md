@@ -1,1 +1,0 @@
-# omap5_aroot
